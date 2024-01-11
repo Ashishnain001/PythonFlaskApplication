@@ -1,0 +1,10 @@
+{% extends "internal.html" %}
+{% block top %}
+<script async src="//172.24.0.210:7897/nv/netvision/cav_nv.js" type="text/javascript" > </script>
+Welcome!! You are in Index Page!!
+{% endblock %}
+{% block indexactive %}class="active"{% endblock %}
+{% block content %}
+	<div class="msg">{{ msg }}</div>
+	<p id="Index_heading">Welcome To The <br>Demo FlaskApp</p> 
+{% endblock %} 

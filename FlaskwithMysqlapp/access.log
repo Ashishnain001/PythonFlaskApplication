@@ -1,0 +1,1292 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [29/Nov/2023 11:24:20] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 11:24:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 11:24:56] "POST /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 11:24:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [29/Nov/2023 12:13:50] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:13:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:13:53] "POST /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:13:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:13:57] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:13:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:13:59] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:13:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:14:00] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:14:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:14:01] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:14:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:14:03] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:14:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:14:05] "GET /http_page HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:14:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:14:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [29/Nov/2023 12:14:06] "GET /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:14:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [29/Nov/2023 12:17:25] "POST /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:17:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:17:29] "[35m[1mGET /display HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [29/Nov/2023 12:19:24] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:19:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:19:27] "POST /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:19:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:19:30] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:19:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [29/Nov/2023 12:21:18] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:18] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:32] "POST /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:32] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:36] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:41] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:43] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:45] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:45] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:48] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:53] "GET /http_page HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 12:21:56] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [29/Nov/2023 12:21:56] "GET /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 12:21:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:28:47] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:28:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:28:52] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:28:52] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:40:01] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:40:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:40:02] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:40:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:40:06] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:40:12] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 15:40:12] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:21:00] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:21:24] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:21:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:21:50] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:21:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:21:56] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:21:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:24:58] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:24:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:00] "GET /mongodb HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:01] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:05] "GET /redis_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:08] "GET /postgre_sql HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:10] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:10] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:11] "GET /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:25:11] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:05] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:12] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:12] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:14] "GET /mongodb HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:16] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:27] "GET /redis_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:29] "GET /postgre_sql HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:30] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:35:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:58:01] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 16:58:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:03:34] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:03:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:03:39] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:03:39] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:03:52] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:03:52] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:09:00] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:09:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:09:08] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:09:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:09:29] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [29/Nov/2023 17:09:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [29/Nov/2023 19:18:37] "POST /login/id=1045 HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 19:18:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 19:18:44] "GET /http_page HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 19:18:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [29/Nov/2023 19:19:23] "GET /http_page HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 19:19:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [29/Nov/2023 19:21:03] "GET /http_page HTTP/1.1" 200 -
+172.24.1.124 - - [29/Nov/2023 19:21:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 10:24:15] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 10:24:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 10:24:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 10:24:22] "[35m[1mPOST /login/id=1045 HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [30/Nov/2023 11:48:53] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [30/Nov/2023 11:48:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [30/Nov/2023 11:48:58] "[35m[1mPOST /login/id=1045 HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [30/Nov/2023 12:11:22] "[35m[1mPOST /login/id=1045 HTTP/1.1[0m" 500 -
+172.24.1.124 - - [30/Nov/2023 12:11:28] "[35m[1mPOST /login/id=1045 HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [30/Nov/2023 12:14:31] "[35m[1mPOST /login/id=1045 HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.2.137 - - [30/Nov/2023 12:23:33] "GET / HTTP/1.1" 200 -
+172.24.2.137 - - [30/Nov/2023 12:23:33] "GET /style.css HTTP/1.1" 200 -
+172.24.2.137 - - [30/Nov/2023 12:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.2.137 - - [30/Nov/2023 12:23:39] "POST /login/id=1045 HTTP/1.1" 200 -
+172.24.2.137 - - [30/Nov/2023 12:23:39] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:32:00] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:32:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:32:42] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:32:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:34:58] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:34:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:35:48] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:35:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:35:55] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:35:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:43:51] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 12:43:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:07:32] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:07:32] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:21:00] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:21:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:15] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:22] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:26] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:27] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:28] "GET /mongodb HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:29] "GET /redis_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:31] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:34] "GET /postgre_sql HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:36] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:37] "[35m[1mGET /exception HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:41] "GET /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:45:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:48:34] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:48:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:49:32] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:49:32] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:49:54] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:49:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:50:06] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:50:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:50:14] "GET /mongodb HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [30/Nov/2023 16:50:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:14:41] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:14:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:14:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:28:35] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:28:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:29:37] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:29:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:31:23] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:31:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:32:37] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:32:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:32:47] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:32:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:32:56] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:32:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:33:26] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:33:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:33:59] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:33:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:34:54] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:34:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:41:11] "[35m[1mGET /exception HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:43:58] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:51:59] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:51:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:54:38] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:54:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:54:49] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 11:54:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:00:51] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:00:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:01:11] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:01:11] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:03:49] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:03:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:03:50] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:03:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:03:59] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:03:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:07] "GET /mongodb HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:07] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:18] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:18] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:18] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:18] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:19] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:19] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:19] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:19] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:19] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:19] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:20] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:20] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:20] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:20] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:21] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:21] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:22] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:22] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:26] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:26] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:26] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:27] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:27] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:27] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:28] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:28] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:28] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:29] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:29] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:29] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:30] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:30] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:31] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:31] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:04:31] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:05:00] "[35m[1mGET /exception HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:06:11] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:06:11] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:06:20] "[35m[1mGET /exception HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:06:53] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:11:53] "GET /postgre_sql HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:11:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:15:17] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:15:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:15:39] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:15:39] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:17:01] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:17:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:17:38] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:17:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:17:47] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:17:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:17] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:22] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:27] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:59] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:18:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:01] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:03] "GET /postgre_sql HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:05] "[35m[1mGET /exception HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:48] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:50] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:19:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:20:22] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:20:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:20:25] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:20:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:25:53] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:25:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:26:23] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:26:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:26:37] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:26:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:26:55] "GET /mongodb HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:26:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:27:54] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:27:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:28:05] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:28:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:28:14] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:28:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:40:00] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:40:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:40:30] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 12:40:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 15:41:08] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 15:41:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 15:41:19] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 15:41:19] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:05:49] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:05:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:11] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:11] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:27] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:49] "GET /update HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:51] "GET /mongodb HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:06:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:02] "GET /redis_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:08] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:23] "GET /postgre_sql HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:35] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:07:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:08:02] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 17:08:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 19:22:00] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [04/Dec/2023 19:22:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:49:47] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:49:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:49:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:50:03] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:50:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:50:10] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:56:53] "POST /login/id=1045 HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:56:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:56:59] "GET /http_page HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 11:56:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 12:02:59] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 12:02:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 12:32:39] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 12:32:41] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 12:32:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 12:33:25] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 12:33:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 16:13:50] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [05/Dec/2023 16:13:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 12:59:54] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 12:59:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 12:59:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:00:05] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:00:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:13] "GET / HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501136233547:0:4611699501136233547:1346041870131658752:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:13] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501136236585:0:4611699501136233547:1346041870131658752:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:17] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501137293645:0:4611699501136233547:1346042205189439488:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:17] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501137303859:0:4611699501136233547:1346042205189439488:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:27] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501139985529:0:4611699501136233547:1346042205189439488:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:27] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501139997803:0:4611699501136233547:1346042205189439488:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:29] "GET /update HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501140315181:0:4611699501136233547:1346042205189439488:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:29] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501140318988:0:4611699501136233547:1346042205189439488:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:30] "GET /mongodb HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501140618035:0:4611699501136233547:1346042205189439488:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:30] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501140625934:0:4611699501136233547:1346042205189439488:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:31] "GET /redis_page HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501140880466:0:4611699501136233547:1346042205189439488:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:31] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501140885032:0:4611699501136233547:1346042205189439488:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:32] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501141272612:0:4611699501136233547:1346042205189439488:6] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:32] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501141280285:0:4611699501136233547:1346042205189439488:6] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:34] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501141606229:0:4611699501136233547:1346042205189439488:7] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:01:34] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699501141620539:0:4611699501136233547:1346042205189439488:7] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:30] "GET /index HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501217407757:0:4611699501136233547:1346042205189439488:8] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:30] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501217411188:0:4611699501136233547:1346042205189439488:8] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:33] "GET /display HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501218151941:0:4611699501136233547:1346043566694072320:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:33] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501218185813:0:4611699501136233547:1346043566694072320:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:35] "GET /update HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501218745459:0:4611699501136233547:1346043566694072320:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:35] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501218749458:0:4611699501136233547:1346043566694072320:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:36] "GET /mongodb HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501219039758:0:4611699501136233547:1346043566694072320:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:36] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501219044163:0:4611699501136233547:1346043566694072320:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:37] "GET /redis_page HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501219356795:0:4611699501136233547:1346043566694072320:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:37] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501219361147:0:4611699501136233547:1346043566694072320:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:39] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501219827537:0:4611699501136233547:1346043566694072320:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:39] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501219830288:0:4611699501136233547:1346043566694072320:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:40] "GET /http_page HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501220107883:0:4611699501136233547:1346043566694072320:6] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:06:40] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501220121363:0:4611699501136233547:1346043566694072320:6] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:29] "GET /index HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501263196932:0:4611699501136233547:1346043566694072320:7] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:29] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501263200361:0:4611699501136233547:1346043566694072320:7] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:35] "GET /display HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501264851736:0:4611699501136233547:1346044335493218304:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:35] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501264861811:0:4611699501136233547:1346044335493218304:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:39] "GET /update HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501265835837:0:4611699501136233547:1346044335493218304:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:39] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501265839634:0:4611699501136233547:1346044335493218304:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:41] "GET /mongodb HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501266442252:0:4611699501136233547:1346044335493218304:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:09:41] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501266448243:0:4611699501136233547:1346044335493218304:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:10:23] "GET /redis_page HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501277051191:0:4611699501136233547:1346044335493218304:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:10:23] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501277055565:0:4611699501136233547:1346044335493218304:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:10:24] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501277506400:0:4611699501136233547:1346044335493218304:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 13:10:24] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699501277510514:0:4611699501136233547:1346044335493218304:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:10:47] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503126437989:0:4611699501136233547:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:10:50] "GET /index HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503127166981:0:4611699503126437989:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:10:50] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503127172102:0:4611699503126437989:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:12:06] "GET /style.css HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503146820379:0:4611699503146820379:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:12:09] "[32mGET /index HTTP/1.1[0m" 302 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503147399699:0:4611699503146820379:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:12:09] "GET /login/id=1045 HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503147401036:0:4611699503146820379:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:12:09] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503147407198:0:4611699503146820379:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:13:54] "GET / HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503174315091:0:4611699503146820379:1346075946385408000:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:13:54] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503174318402:0:4611699503146820379:1346075946385408000:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:13:56] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503174816538:0:4611699503146820379:1346076397390528512:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:14:00] "GET / HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503175886913:0:4611699503146820379:1346076397390528512:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:14:00] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503175889972:0:4611699503146820379:1346076397390528512:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:15:38] "GET / HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503200970596:0:4611699503200970596:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:15:38] "GET /style.css HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503200974124:0:4611699503200970596:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:15:50] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503203994677:0:4611699503200970596:1346076844050350080:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:18:00] "GET / HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503237428787:0:4611699503237428787:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:18:00] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503237432396:0:4611699503237432396:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:18:41] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503247764756:0:4611699503247764756:1346077458230673408:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:18:41] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503247773964:0:4611699503247773964:1346077458230673408:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:19:01] "GET / HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503252938023:0:4611699503252938023:1346077458230673408:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:19:01] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503252944507:0:4611699503252944507:1346077458230673408:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:19:16] "GET / HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503256717428:0:4611699503256717428:1346077458230673408:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:19:16] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503256721684:0:4611699501136233547:1346077458230673408:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:19:25] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503259117368:0:4611699501136233547:1346077458230673408:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:19:25] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503259124062:0:4611699501136233547:1346077458230673408:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:25:44] "GET / HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503356049940:0:4611699501136233547:1346077458230673408:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:25:44] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503356054545:0:4611699501136233547:1346077458230673408:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:25:54] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503358694252:0:4611699501136233547:1346079446850863104:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:25:54] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503358702352:0:4611699501136233547:1346079446850863104:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:27:25] "[32mGET /index HTTP/1.1[0m" 302 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503382093609:0:4611699501136233547:1346042205189439488:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:27:25] "GET /login/id=1045 HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503382095207:0:4611699501136233547:1346042205189439488:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:27:26] "GET /style.css HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503382100279:0:4611699501136233547:1346042205189439488:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:27:39] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503385601848:0:4611699501136233547:1346079884937527297:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:27:39] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1911:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1911:4611699503385608728:0:4611699501136233547:1346079884937527297:1] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:33:35] "GET / HTTP/1.1" 200 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503476609104:0:4611699503476609104:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:33:35] "GET /style.css HTTP/1.1" 200 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503476612975:0:4611699503476612975:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:33:43] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503478822773:0:4611699503478822773:1346081469713350656:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:33:43] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503478831117:0:4611699503478831117:1346081469713350656:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:36:40] "GET /index HTTP/1.1" 200 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503524124782:0:4611699503524124782:1346081469713350656:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:36:40] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503524132673:0:4611699503524124782:1346081469713350656:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:36:58] "GET /display HTTP/1.1" 200 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503528653355:0:4611699503524124782:1346082264315854848:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:36:58] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503528663899:0:4611699503528653355:1346082264315854848:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:38:00] "GET /update HTTP/1.1" 200 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503544485418:0:4611699503528653355:1346082264315854848:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 15:38:00] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1912:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1912:4611699503544496168:0:4611699503544485418:1346082264315854848:2] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:38:40] "GET / HTTP/1.1" 200 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505398091123:0:4611699505398091123:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:38:40] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505398094112:0:4611699505398094112:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:38:48] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505400139019:0:4611699505400139019:1346113712099950593:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:38:49] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505400150606:0:4611699505400150606:1346113712099950593:1] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:38:54] "GET /http_page HTTP/1.1" 200 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505401451589:0:4611699505401451589:1346113712099950593:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:38:54] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505401476963:0:4611699505401476963:1346113712099950593:2] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:39:04] "GET /display HTTP/1.1" 200 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505404206651:0:4611699505404206651:1346113712099950593:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:39:04] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505404226600:0:4611699505404226600:1346113712099950593:3] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:39:07] "GET /mongodb HTTP/1.1" 200 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505404849244:0:4611699505404849244:1346113712099950593:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:39:07] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505404858650:0:4611699505404858650:1346113712099950593:4] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:39:10] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505405577313:0:4611699505405577313:1346113712099950593:5] 
+ [ RequestId : None ] 172.24.1.124 - - [07/Dec/2023 17:39:18] "[35m[1mGET /exception HTTP/1.1[0m" 500 - [TOPO:1917:Python87:cavisson-ThinkPad-E15-Gen-2:runcode][FP:1917:4611699505407637330:0:4611699505407637330:1346113712099950593:6] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 12:56:03] "GET / HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699589530654009:0:4611699589530654009:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 12:56:03] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699589530659629:0:4611699589530659629:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 12:56:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699589530692169:0:4611699589530692169:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 12:56:16] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699589533795665:0:4611699589533795665:1347525214430298112:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 12:56:16] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699589533804288:0:4611699589533804288:1347525214430298112:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 12:56:22] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699589534618716:0:4611699589534618716:1347525214430298112:2] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 12:56:22] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699589535424049:0:4611699589535424049:1347525214430298112:2] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 13:54:52] "GET /index HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590433910543:0:4611699590433910543:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 13:54:52] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590433915191:0:4611699590433915191:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 13:54:56] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590435110672:0:4611699590435110672:1347540371369885696:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 13:54:56] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590435138627:0:4611699590435138627:1347540371369885696:1] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 13:59:53] "GET / HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590510979192:0:4611699590510979192:1347540371369885696:2] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 13:59:53] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590510983232:0:4611699590510983232:1347540371369885696:2] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:00:00] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590512854557:0:4611699590512854557:1347541664155041792:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:00:00] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590512860443:0:4611699590512860443:1347541664155041792:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:00:16] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590516971265:0:4611699590516971265:1347541664155041792:2] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:00:16] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590516982023:0:4611699590516982023:1347541664155041792:2] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:00:38] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590522648138:0:4611699590522648138:1347541664155041792:3] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:00:38] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699590522666106:0:4611699590522666106:1347541664155041792:3] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:52:08] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699591313547267:0:4611699591313547267:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 14:52:08] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699591313570340:0:4611699591313570340:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:33:05] "GET /index HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699591942593355:0:4611699591942593355:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:33:05] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699591942597678:0:4611699591942597678:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:33:07] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699591943234368:0:4611699591943234368:1347565681595383809:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:33:07] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699591943241506:0:4611699591943241506:1347565681595383809:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:40:36] "GET / HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592058148967:0:4611699592058148967:1347565681595383809:2] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:40:36] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592058152479:0:4611699592058152479:1347565681595383809:2] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:40:40] "POST /login/id=1045 HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592059122755:0:4611699592059122755:1347567618642411520:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 15:40:40] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592059127374:0:4611699592059127374:1347567618642411520:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 16:26:37] "GET /index HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592764923982:0:4611699592764923982:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 16:26:37] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592764926998:0:4611699592764923982:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 16:26:38] "GET /index HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592765016626:0:4611699592764923982:1347579477013561344:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 16:26:38] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699592765019910:0:4611699592764923982:1347579477013561344:1] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 18:16:30] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699594452649012:0:4611699592764923982:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [11/Dec/2023 18:16:30] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699594452692275:0:4611699594452649012:0:0] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 12:56:43] "GET / HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699611659219532:0:4611699611659219532:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 12:56:43] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699611659223653:0:4611699611659223653:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 12:56:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699611659299593:0:4611699611659299593:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 12:56:54] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699611662110507:0:4611699611662110507:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 12:56:54] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:cavisson-ThinkPad-E15-Gen-2:runcode][FP:50005:4611699611662116955:0:4611699611662116955:0:0] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 16:42:22] "GET / HTTP/1.1" 200 - [TOPO:1931:Python31:PythonAgent31:runcode][FP:1931:4611699615125132356:0:4611699615125132356:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 16:42:22] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1931:Python31:PythonAgent31:runcode][FP:1931:4611699615125136647:0:4611699615125132356:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 16:42:29] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:1931:Python31:PythonAgent31:runcode][FP:1931:4611699615126967663:0:4611699615125132356:1347954620948807680:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 16:42:29] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1931:Python31:PythonAgent31:runcode][FP:1931:4611699615126974578:0:4611699615125132356:1347954620948807680:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 16:42:31] "GET /display HTTP/1.1" 200 - [TOPO:1931:Python31:PythonAgent31:runcode][FP:1931:4611699615127388796:0:4611699615126974578:1347954620948807680:2] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 16:42:31] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1931:Python31:PythonAgent31:runcode][FP:1931:4611699615127399788:0:4611699615127388796:1347954620948807680:2] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 17:00:22] "GET /index HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 17:00:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 17:00:26] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 17:00:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 17:08:14] "GET /display HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 17:08:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:42:15] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:42:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:44:54] "GET / HTTP/1.1" 200 -
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:44:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:48:03] "GET /display HTTP/1.1" 200 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699617977313909:0:4611699617977313909:1348001659447410688:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:48:03] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699617977327231:0:4611699617977327231:1348001659447410688:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:48:07] "GET /update HTTP/1.1" 200 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699617978416469:0:4611699617978416469:1348002471196229632:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:48:07] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699617978421327:0:4611699617978421327:1348002471196229632:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:55:24] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699618090078549:0:4611699618090078549:1348002471196229632:2] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:55:24] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699618090084704:0:4611699618090084704:1348002471196229632:2] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:55:26] "GET /http_page HTTP/1.1" 200 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699618090616664:0:4611699618090616664:1348004365260029952:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:55:26] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699618090628927:0:4611699618090628927:1348004365260029952:1] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:55:27] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699618090950748:0:4611699618090950748:1348004365260029952:2] 
+ [ RequestId : None ] 172.24.1.124 - - [12/Dec/2023 19:55:27] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1934:Python31:PythonAgent31:runcode][FP:1934:4611699618090956055:0:4611699618090956055:1348004365260029952:2] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:56:21] "GET / HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635615122944:0:4611699635615122944:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:56:21] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635615126633:0:4611699635615126633:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:56:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635615912485:0:4611699635615912485:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:56:48] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635622138132:0:4611699635622138132:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:56:48] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635622145321:0:4611699635622145321:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:56:52] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635623161169:0:4611699635623161169:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:56:52] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635623177752:0:4611699635623177752:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:10] "GET /update HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635627781992:0:4611699635627781992:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:10] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635627787616:0:4611699635627787616:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:16] "GET /mongodb HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635629212008:0:4611699635629212008:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:16] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635629219197:0:4611699635629219197:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:21] "GET /redis_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635630501199:0:4611699635630501199:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:21] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635630506505:0:4611699635630506505:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:26] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635631815520:0:4611699635631815520:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 14:57:26] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635631822096:0:4611699635631822096:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:21:17] "GET /index HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635998132083:0:4611699635998132083:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:21:17] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699635998136680:0:4611699635998132083:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:21:31] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636001850683:0:4611699635998132083:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:21:31] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636001871946:0:4611699636001850683:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:28] "GET /index HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636385069373:0:4611699636001850683:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:28] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636385073464:0:4611699636385069373:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:30] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636385390107:0:4611699636385069373:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:30] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636385400617:0:4611699636385390107:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:31] "GET /update HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636385689610:0:4611699636385390107:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:31] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636385693768:0:4611699636385689610:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:33] "GET /mongodb HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636386181963:0:4611699636385689610:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:33] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636386186289:0:4611699636386181963:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:34] "GET /redis_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636386508844:0:4611699636386181963:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:34] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636386511923:0:4611699636386508844:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:35] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636386825775:0:4611699636386508844:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:35] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636386830202:0:4611699636386825775:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:36] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636387102209:0:4611699636386825775:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:36] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636387119879:0:4611699636387102209:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:38] "[32mGET /logout HTTP/1.1[0m" 302 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636387412258:0:4611699636387102209:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:38] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636387413849:0:4611699636387412258:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:38] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636387417434:0:4611699636387412258:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:41] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636388368460:0:4611699636387412258:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:41] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636388373506:0:4611699636387412258:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:45] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636389120292:0:4611699636388373506:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:45] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636389216335:0:4611699636389120292:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:46] "GET /update HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636389518423:0:4611699636389120292:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [13/Dec/2023 15:46:46] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699636389522756:0:4611699636389518423:0:0] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:26] "GET / HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654017847070:0:4611699654017847070:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:26] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654017855558:0:4611699654017855558:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654018646590:0:4611699654018646590:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:37] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654020527737:0:4611699654020527737:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:37] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654020533250:0:4611699654020533250:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:46] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654022911024:0:4611699654022911024:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:46] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654022934798:0:4611699654022934798:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:53] "GET /update HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654024719140:0:4611699654024719140:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:54:53] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654024725307:0:4611699654024725307:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:03] "GET /mongodb HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654027179796:0:4611699654027179796:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:03] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654027185181:0:4611699654027185181:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:09] "GET /redis_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654028850722:0:4611699654028850722:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:09] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654028855918:0:4611699654028855918:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:13] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654029881920:0:4611699654029881920:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:13] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654029887318:0:4611699654029887318:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:15] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654030284411:0:4611699654030284411:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:15] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654030292756:0:4611699654030292756:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 10:55:17] "[35m[1mGET /exception HTTP/1.1[0m" 500 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699654030743310:0:4611699654030743310:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:17] "GET / HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655136721674:0:4611699655136721674:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:17] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655136729190:0:4611699655136729190:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655137515884:0:4611699655137515884:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:20] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655137590893:0:4611699655137590893:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:20] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655137595245:0:4611699655137595245:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:22] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655138074721:0:4611699655138074721:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:22] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655138085140:0:4611699655138085140:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:25] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655138731630:0:4611699655138731630:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:25] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655138739477:0:4611699655138739477:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:40] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655142624098:0:4611699655142624098:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:07:40] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655142684712:0:4611699655142684712:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:51] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391280688:0:4611699655391280688:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:51] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391285255:0:4611699655391285255:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:52] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391364964:0:4611699655391364964:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:52] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391370540:0:4611699655391370540:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:52] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391443012:0:4611699655391443012:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:52] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391448593:0:4611699655391448593:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:52] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391530860:0:4611699655391530860:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:52] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391536448:0:4611699655391536448:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:53] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391619424:0:4611699655391619424:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:53] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391623281:0:4611699655391623281:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:53] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391705929:0:4611699655391705929:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:53] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391710783:0:4611699655391710783:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:53] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391794720:0:4611699655391794720:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:53] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391800929:0:4611699655391800929:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:54] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391880245:0:4611699655391880245:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:54] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391886692:0:4611699655391886692:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:54] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391965954:0:4611699655391965954:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:54] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655391972146:0:4611699655391972146:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:54] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392053363:0:4611699655392053363:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:54] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392066908:0:4611699655392066908:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:55] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392140634:0:4611699655392140634:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:55] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392175442:0:4611699655392175442:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:55] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392226862:0:4611699655392226862:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:55] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392308544:0:4611699655392308544:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:55] "GET /http_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392267558:0:4611699655392267558:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:23:55] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655392319019:0:4611699655392319019:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:40:44] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655650513239:0:4611699655650513239:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:40:44] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655650527005:0:4611699655650527005:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:40:49] "GET /update HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655651679612:0:4611699655651679612:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:40:49] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655651683677:0:4611699655651683677:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:40:52] "GET /mongodb HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655652483923:0:4611699655652483923:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:40:52] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655652488709:0:4611699655652488709:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 12:40:54] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699655653109546:0:4611699655653109546:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:15:51] "GET /index HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658033221488:0:4611699658033221488:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:15:51] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658033226838:0:4611699658033226838:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:17:42] "GET /display HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658061499713:0:4611699658061499713:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:17:42] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658061511435:0:4611699658061511435:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:18:01] "GET /update HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658066304094:0:4611699658066304094:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:18:01] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658066309229:0:4611699658066309229:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:18:10] "GET /redis_page HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658068734331:0:4611699658068734331:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:18:10] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658068740128:0:4611699658068740128:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:19:42] "GET /postgre_sql HTTP/1.1" 200 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658092119395:0:4611699658092119395:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [14/Dec/2023 15:19:42] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:50005:Python31:PythonAgent31:runcode][FP:50005:4611699658092124420:0:4611699658092124420:0:0] 
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [15/Dec/2023 12:53:12] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [15/Dec/2023 12:53:12] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [15/Dec/2023 12:53:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [15/Dec/2023 12:53:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [15/Dec/2023 12:53:21] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [15/Dec/2023 12:53:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [15/Dec/2023 12:53:35] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [15/Dec/2023 12:53:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [15/Dec/2023 12:53:48] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [15/Dec/2023 12:53:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [15/Dec/2023 12:55:55] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [15/Dec/2023 12:55:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [15/Dec/2023 12:55:56] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [15/Dec/2023 12:55:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [15/Dec/2023 12:56:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:12:57] "GET / HTTP/1.1" 200 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764894054695:0:4611699764894054695:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:12:57] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764894060916:0:4611699764894060916:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:13:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764894849538:0:4611699764894849538:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:13:10] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764897513834:0:4611699764897513834:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:13:10] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764897523228:0:4611699764897523228:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:13:22] "[35m[1mGET /multiple_sql HTTP/1.1[0m" 500 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764900522775:0:4611699764900522775:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:14:11] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764913042448:0:4611699764913042448:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:14:11] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764913046884:0:4611699764913046884:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:14:13] "GET /http_page HTTP/1.1" 200 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764913623083:0:4611699764913623083:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:14:13] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764913629984:0:4611699764913629984:0:0] 
+ [ RequestId : None ] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+ [ RequestId : None ] [33mPress CTRL+C to quit[0m
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:15:57] "GET / HTTP/1.1" 200 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764940118107:0:4611699764940118107:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:15:57] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764940121923:0:4611699764940121923:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:16:01] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764941319199:0:4611699764941319199:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:16:01] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764941326392:0:4611699764941326392:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:16:04] "GET /http_page HTTP/1.1" 200 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764941725992:0:4611699764941725992:0:0] 
+ [ RequestId : None ] 172.24.1.124 - - [19/Dec/2023 11:16:04] "[36mGET /style.css HTTP/1.1[0m" 304 - [TOPO:1946:Python31:PythonAgent31:runcode][FP:1946:4611699764942052181:0:4611699764942052181:0:0] 
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [20/Dec/2023 11:53:25] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:53:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 11:53:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [20/Dec/2023 11:53:30] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:53:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 11:53:50] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:54:35] "[32mGET /display HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 11:54:35] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:54:58] "[32mGET /display HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 11:54:58] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:55:13] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:55:13] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 11:55:16] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:55:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 11:55:18] "GET /index HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:55:18] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 11:55:30] "[32mGET /index HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 11:55:30] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 11:55:48] "[31m[1mPOST /index HTTP/1.1[0m" 405 -
+172.24.1.124 - - [20/Dec/2023 11:55:55] "[32mGET /index HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 11:55:55] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:11:31] "GET /index HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:11:31] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 15:11:42] "[32mGET /index HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 15:11:42] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:11:57] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:11:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 15:12:06] "[32mGET /display HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 15:12:06] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:12:39] "[32mPOST /update HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 15:12:39] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:15:33] "GET /http_page HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:15:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 15:15:42] "[31m[1mPOST /http_page HTTP/1.1[0m" 405 -
+172.24.1.124 - - [20/Dec/2023 15:16:01] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:16:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 15:16:12] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+172.24.1.124 - - [20/Dec/2023 15:16:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+172.24.1.124 - - [20/Dec/2023 15:16:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [20/Dec/2023 15:16:25] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [20/Dec/2023 15:16:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [20/Dec/2023 15:16:42] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.33.123:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [20/Dec/2023 22:05:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2023 22:05:49] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2023 22:06:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2023 22:06:20] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2023 22:06:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/Dec/2023 22:06:51] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+127.0.0.1 - - [20/Dec/2023 22:06:51] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:39:50] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:39:50] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:39:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.33.123 - - [20/Dec/2023 22:41:24] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:41:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [20/Dec/2023 22:42:41] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:42:41] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:42:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.33.123 - - [20/Dec/2023 22:44:30] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:44:30] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:45:14] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:45:14] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:45:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.33.123 - - [20/Dec/2023 22:46:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.33.123 - - [20/Dec/2023 22:46:46] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:46:46] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:48:23] "GET /update HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:48:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [20/Dec/2023 22:49:54] "[32mGET /logout HTTP/1.1[0m" 302 -
+192.168.33.123 - - [20/Dec/2023 22:49:54] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [20/Dec/2023 22:49:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [20/Dec/2023 22:50:28] "[35m[1mGET /display HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.1.124:5000
+[33mPress CTRL+C to quit[0m
+172.24.1.124 - - [21/Dec/2023 10:55:58] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 10:55:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 10:55:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [21/Dec/2023 10:56:04] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 10:56:04] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 11:07:06] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:07:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 11:30:43] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:30:43] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:30:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [21/Dec/2023 11:30:47] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:30:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 11:30:50] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:30:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 11:30:54] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:30:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 11:30:56] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [21/Dec/2023 11:30:56] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:30:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 11:42:24] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [21/Dec/2023 11:42:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [21/Dec/2023 11:42:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.33.123:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.33.123:5000
+[33mPress CTRL+C to quit[0m
+192.168.33.123 - - [21/Dec/2023 22:17:43] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:17:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:19:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.33.123 - - [21/Dec/2023 22:27:38] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:27:38] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:27:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.33.123 - - [21/Dec/2023 22:29:10] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:29:10] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:31:05] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:31:05] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:31:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.33.123 - - [21/Dec/2023 22:32:37] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:32:37] "GET /style.css HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:34:14] "GET /update HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:34:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:35:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+192.168.33.123 - - [21/Dec/2023 22:35:46] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:35:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:36:18] "[35m[1mGET /display HTTP/1.1[0m" 500 -
+192.168.33.123 - - [21/Dec/2023 22:41:59] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:41:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:42:05] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:42:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:53:33] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:53:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:54:06] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:54:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:54:14] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:54:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:54:17] "GET /update HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:54:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:54:22] "GET /mongodb HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:54:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:54:49] "GET /update HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 22:54:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:54:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+192.168.33.123 - - [21/Dec/2023 22:55:46] "[35m[1mGET /display HTTP/1.1[0m" 500 -
+192.168.33.123 - - [21/Dec/2023 22:55:54] "[35m[1mGET /display HTTP/1.1[0m" 500 -
+192.168.33.123 - - [21/Dec/2023 22:56:53] "[35m[1mGET /display HTTP/1.1[0m" 500 -
+192.168.33.123 - - [21/Dec/2023 23:00:03] "GET / HTTP/1.1" 200 -
+192.168.33.123 - - [21/Dec/2023 23:00:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:24:37] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:24:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:25:03] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:25:03] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:25:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 11:25:08] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:25:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:25:11] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:25:11] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:25:14] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:25:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:25:17] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [22/Dec/2023 11:25:17] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:25:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:30:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:30:57] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:30:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:31:00] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:31:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:37:47] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:37:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:39:38] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:39:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:41:16] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:41:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:41:49] "GET /http_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:41:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 11:42:47] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 11:42:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:08:45] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:08:46] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:08:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 12:08:49] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:08:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:08:52] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:08:52] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:08:55] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:08:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:08:59] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:08:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:09:04] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:09:04] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:31:20] "[32mPOST /redis_create HTTP/1.1[0m" 302 -
+172.24.1.124 - - [22/Dec/2023 12:31:20] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:31:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:31:42] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:31:42] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:31:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 12:31:45] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:31:45] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:31:52] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:31:52] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:31:56] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:31:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:32:00] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:32:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:32:07] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:32:07] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:34:29] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:34:29] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:34:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 12:34:31] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:34:31] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:34:33] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:34:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:34:34] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:34:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:34:36] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:34:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:34:38] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:34:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:36:31] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:36:31] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:36:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 12:36:41] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:36:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:36:46] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:36:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:36:49] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:36:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:36:54] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:36:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:36:58] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:36:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:37:04] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:37:04] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:37:11] "[35m[1mGET /http_page HTTP/1.1[0m" 500 -
+172.24.1.124 - - [22/Dec/2023 12:39:48] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:39:48] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:39:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 12:39:53] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:39:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:40:00] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:40:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:40:06] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:40:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:40:10] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:40:10] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:40:15] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:40:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:40:21] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:40:21] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:40:26] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [22/Dec/2023 12:40:26] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:40:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 12:41:14] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:41:14] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:41:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 12:41:44] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:41:44] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 12:41:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 13:00:56] "GET /update HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:00:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:07:27] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:28] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 13:07:31] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:31] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:07:35] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:07:40] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:07:42] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:07:46] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:07:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [22/Dec/2023 13:07:50] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:07:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:08:18] "GET / HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:18] "GET /style.css HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+172.24.1.124 - - [22/Dec/2023 13:08:25] "POST /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:08:27] "GET /display HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:08:35] "GET /mongodb HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:08:37] "GET /redis_page HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:08:44] "GET /postgre_sql HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+172.24.1.124 - - [22/Dec/2023 13:08:48] "[32mGET /logout HTTP/1.1[0m" 302 -
+172.24.1.124 - - [22/Dec/2023 13:08:48] "GET /login/id=1045%3Fname=Ashish HTTP/1.1" 200 -
+172.24.1.124 - - [22/Dec/2023 13:08:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
